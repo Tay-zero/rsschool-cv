@@ -14,6 +14,3 @@ phone: +79615115037, mail: parsel@mail.ru
 * Implementation of information security systems
 ### <font size=3 color= black>Responsible performance of assigned tasks, honesty, perseverance.
 ##
-<img src="en.jpg" alt="альтернативный текст" style="width:600px;height:300px;">
-
-<table> <tr> <td bgcolor= lightblue><font size= color= Black></font></table></td></tr>
